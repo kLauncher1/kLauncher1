@@ -110,8 +110,7 @@ namespace kLauncher1 {
 ### 📫 소통 및 네트워크
 
 - 💬 **Ask me about**: 저수준 시스템, C++20, Win32 API, 리버스 엔지니어링, UI 자동화
-- 📬 **Direct Contact**: [`nvcxzgo@gmail.com`](mailto:nvcxzgo@gmail.com)
-- 🌐 **Profile Link**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
+- 🌐 **GitHub**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
 - ⚡ **Engineering Fact**: 가벼운 바이너리 크기, 예리한 성능, 불필요한 런타임 종속성 0%.
 
 <div align="center">
