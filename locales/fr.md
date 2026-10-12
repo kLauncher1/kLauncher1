@@ -110,8 +110,7 @@ namespace kLauncher1 {
 ### 📫 Contact & Échanges
 
 - 💬 **Ask me about**: Systèmes bas niveau, C++20, API Win32, Rétro-ingénierie, Automatisation UI
-- 📬 **Direct Contact**: [`nvcxzgo@gmail.com`](mailto:nvcxzgo@gmail.com)
-- 🌐 **Profile Link**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
+- 🌐 **GitHub**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
 - ⚡ **Engineering Fact**: Binaires compacts, vélocité maximale et zéro dépendance superflue.
 
 <div align="center">
