@@ -8,7 +8,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://github.com/kLauncher1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Ken+Park+%E2%80%94+Systems+%26+Desktop+Tooling;C%2B%2B20+%C2%B7+C%23+.NET+9+%C2%B7+Win32+%C2%B7+Direct2D;Binary+Forensics+%C2%B7+Reverse+Engineering;High+Performance+%C2%B7+Hardware+Acceleration" alt="Typing SVG" />
+  <img src="assets/header/typing_header.svg" alt="Typing SVG" />
 </a>
 
 <p align="center">
