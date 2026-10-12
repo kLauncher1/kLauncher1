@@ -110,8 +110,7 @@ namespace kLauncher1 {
 ### 📫 互动与联系
 
 - 💬 **Ask me about**: 底层系统、C++20、Win32 API、逆向工程、UI 自动化
-- 📬 **Direct Contact**: [`nvcxzgo@gmail.com`](mailto:nvcxzgo@gmail.com)
-- 🌐 **Profile Link**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
+- 🌐 **GitHub**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
 - ⚡ **Engineering Fact**: 轻量级二进制文件、锐利性能、零非必要运行时依赖。
 
 <div align="center">
