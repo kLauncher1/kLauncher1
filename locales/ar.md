@@ -110,8 +110,7 @@ namespace kLauncher1 {
 ### 📫 التواصل والتفاعل
 
 - 💬 **Ask me about**: الأنظمة منخفضة المستوى، C++20، Win32 API، الهندسة العكسية، أتمتة واجهة المستخدم
-- 📬 **Direct Contact**: [`nvcxzgo@gmail.com`](mailto:nvcxzgo@gmail.com)
-- 🌐 **Profile Link**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
+- 🌐 **GitHub**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
 - ⚡ **Engineering Fact**: ملفات تنفيذية مدمجة، حواف حادة، وصفر اعتمادات وقت تشغيل غير ضرورية.
 
 <div align="center">
