@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- 10-Language Navigation Bar -->
+<p align="center">
+  **🇺🇸 English** · <a href="locales/ko.md">🇰🇷 한국어</a> · <a href="locales/zh-CN.md">🇨🇳 中文</a> · <a href="locales/ja.md">🇯🇵 日本語</a> · <a href="locales/es.md">🇪🇸 Español</a><br />
+  <a href="locales/hi.md">🇮🇳 हिन्दी</a> · <a href="locales/ar.md">🇸🇦 العربية</a> · <a href="locales/pt-BR.md">🇧🇷 Português</a> · <a href="locales/ru.md">🇷🇺 Русский</a> · <a href="locales/fr.md">🇫🇷 Français</a>
+</p>
+
 <!-- Typing SVG Header -->
 <a href="https://github.com/kLauncher1">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Ken+Park+%E2%80%94+Systems+%26+Desktop+Tooling;C%2B%2B20+%C2%B7+C%23+.NET+9+%C2%B7+Win32+%C2%B7+Direct2D;Binary+Forensics+%C2%B7+Reverse+Engineering;High+Performance+%C2%B7+Hardware+Acceleration" alt="Typing SVG" />
@@ -13,7 +19,7 @@
 <!-- Status & Metadata Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Development-00FF9D?style=flat-square&logo=github&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Low--Level%20Systems-00E5FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Low-Level%20Systems-00E5FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Architecture-C%2B%2B20%20%26%20.NET-7C4DFF?style=flat-square" alt="Architecture" />
   <img src="https://img.shields.io/badge/Location-Seoul%2C%20KR-FF5252?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License" />
@@ -77,10 +83,10 @@ namespace kLauncher1 {
 
 | Project / System | Tech Stack | Architecture & Responsibilities |
 | :--- | :--- | :--- |
-| **StarCraft Omni Tactical Suite** | `C++20` · `C# WinForms` · `Win32` | 차세대 게이밍 런처 및 인게임 메모리/패킷 제어 C++20 초경량 네이티브 코어 엔진 |
-| **FoxHop Radar Suite** | `C++20` · `Direct2D` · `WFP` | 60 FPS 하드웨어 가속 실시간 군사 전술 지도 & UDP 6112 패킷 분석 오버레이 HUD |
-| **K-Star Launcher Pro** | `C# 13` · `.NET 9` · `UI Automation` | 100% 백그라운드 무인 배틀넷 자동 로그인 및 63개 단일 책임 모듈 분할 아키텍처 |
-| **Autonomous Kit & CI/CD** | `Node.js` · `PowerShell` · `REST API` | 제로-좀비 프로세스 수명주기 및 GitHub 9대 탭 전자동 릴리스 관리 파이프라인 |
+| **StarCraft Omni Tactical Suite** | `C++20` · `C# WinForms` · `Win32` | Next-gen gaming launcher and in-game memory/packet C++20 ultra-lightweight native core engine |
+| **FoxHop Radar Suite** | `C++20` · `Direct2D` · `WFP` | 60 FPS hardware-accelerated real-time military radar & UDP 6112 packet parser HUD overlay |
+| **K-Star Launcher Pro** | `C# 13` · `.NET 9` · `UI Automation` | 100% background headless Battle.net auto-login & 63 SRP module fractal architecture |
+| **Autonomous Kit & CI/CD** | `Node.js` · `PowerShell` · `REST API` | Zero-zombie task lifecycle & GitHub 9-tab autonomous release management pipeline |
 
 ---
 
@@ -106,7 +112,7 @@ namespace kLauncher1 {
 - 💬 **Ask me about**: Low-level systems, C++20, Win32 API, Reverse Engineering, UI Automation
 - 📬 **Direct Contact**: [`nvcxzgo@gmail.com`](mailto:nvcxzgo@gmail.com)
 - 🌐 **Profile Link**: [https://github.com/kLauncher1](https://github.com/kLauncher1)
-- ⚡ **Fun Fact**: Small binaries, sharp edges, and zero unnecessary runtime dependencies.
+- ⚡ **Engineering Fact**: Small binaries, sharp edges, and zero unnecessary runtime dependencies.
 
 <div align="center">
   <sub>Crafted with clarity, precision and orthodox engineering. 🌟</sub>
